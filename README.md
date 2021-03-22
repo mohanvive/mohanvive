@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=mohanvive&color=brightgreen)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mohanvive&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanvive&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **mohanvive/mohanvive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
